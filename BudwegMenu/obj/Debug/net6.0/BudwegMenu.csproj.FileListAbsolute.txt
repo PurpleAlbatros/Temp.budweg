@@ -1,0 +1,14 @@
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.AssemblyInfo.cs
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\bin\Debug\net6.0\BudwegMenu.exe
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\bin\Debug\net6.0\BudwegMenu.deps.json
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\bin\Debug\net6.0\BudwegMenu.runtimeconfig.json
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\bin\Debug\net6.0\BudwegMenu.dll
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\bin\Debug\net6.0\BudwegMenu.pdb
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.dll
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\refint\BudwegMenu.dll
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.pdb
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\BudwegMenu.genruntimeconfig.cache
+C:\Users\robin\Desktop\Budweg Git\Budweg\BudwegMenu\BudwegMenu\obj\Debug\net6.0\ref\BudwegMenu.dll

@@ -1,0 +1,12 @@
+Fornavn: ibrahim: Efternavn: T: Kompetenceniveau: Under oplæring: Bruger-ID iT1234: 
+
+Fornavn: Mo: Efternavn: mand: Kompetenceniveau: Under oplæring: Bruger-ID Mm1234: 
+
+Fornavn: burger: Efternavn: bolle: Kompetenceniveau: Under oplæring: Bruger-ID bb1234: 
+
+Fornavn: Rasmus: Efternavn: rasmus: Kompetenceniveau: 5: Bruger-ID Rr1234: 
+
+Fornavn: ole: Efternavn: ole: Kompetenceniveau: 1: Bruger-ID oo1234: 
+
+Fornavn: sten: Efternavn: ben: Kompetenceniveau: 2: Bruger-ID sb1234: 
+
